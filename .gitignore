@@ -24,6 +24,4 @@ yarn-error.log*
 
 /dist
 .idea/
-webapp-radicacion.iml
-vslvg
 target
