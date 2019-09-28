@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f679a297-fc2b-4946-a7c5-9fdb942b202a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/DINOffc/DINOffc-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/DINOffc/DINOffc-BlackIta.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/DINOffc/DINOffc-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/DINOffc/DINOffc-BoldIta.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/DINOffc/DINOffc-Ita.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/DINOffc/DINOffc-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/DINOffc/DINOffc-LightIta.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/DINOffc/DINOffc-Medi.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/DINOffc/DINOffc-MediIta.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/DINOffc/DINOffc.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/FSJoey/FS_Joey-Bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/FSJoey/FS_Joey-BoldItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/FSJoey/FS_Joey-Heavy.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/FSJoey/FS_Joey-HeavyItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/FSJoey/FS_Joey-Italic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/FSJoey/FS_Joey-Light.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/FSJoey/FS_Joey-LightItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/FSJoey/FS_Joey-Medium.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/FSJoey/FS_Joey-MediumItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/FSJoey/FS_Joey.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/MaterialIcons/Material-Icons-Baseline.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/MaterialIcons/Material-Icons-Baseline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/MaterialIcons/Material-Icons-Baseline.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/MaterialIcons/Material-Icons-Baseline.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/MaterialIcons/Material-Icons-Baseline.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/MaterialIcons/Material-Icons-Outline.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/MaterialIcons/Material-Icons-Outline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/MaterialIcons/Material-Icons-Outline.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/MaterialIcons/Material-Icons-Outline.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/MaterialIcons/Material-Icons-Outline.woff2" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RTX9NMTR6W1pgKKjLmadpVM8Y7" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/fonts" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/fonts" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f679a297-fc2b-4946-a7c5-9fdb942b202a" name="Default Changelist" comment="" />
+      <created>1569691906318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569691906318</updated>
+      <workItem from="1569691907647" duration="3123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
