@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f679a297-fc2b-4946-a7c5-9fdb942b202a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/DINOffc/DINOffc-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/DINOffc/DINOffc-BlackIta.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/DINOffc/DINOffc-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/DINOffc/DINOffc-BoldIta.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/DINOffc/DINOffc-Ita.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/DINOffc/DINOffc-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/DINOffc/DINOffc-LightIta.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/DINOffc/DINOffc-Medi.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/DINOffc/DINOffc-MediIta.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/DINOffc/DINOffc.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/FSJoey/FS_Joey-Bold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/FSJoey/FS_Joey-BoldItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/FSJoey/FS_Joey-Heavy.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/FSJoey/FS_Joey-HeavyItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/FSJoey/FS_Joey-Italic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/FSJoey/FS_Joey-Light.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/FSJoey/FS_Joey-LightItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/FSJoey/FS_Joey-Medium.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/FSJoey/FS_Joey-MediumItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/FSJoey/FS_Joey.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/MaterialIcons/Material-Icons-Baseline.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/MaterialIcons/Material-Icons-Baseline.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/MaterialIcons/Material-Icons-Baseline.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/MaterialIcons/Material-Icons-Baseline.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/MaterialIcons/Material-Icons-Baseline.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/MaterialIcons/Material-Icons-Outline.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/MaterialIcons/Material-Icons-Outline.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/MaterialIcons/Material-Icons-Outline.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/MaterialIcons/Material-Icons-Outline.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/MaterialIcons/Material-Icons-Outline.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +23,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
