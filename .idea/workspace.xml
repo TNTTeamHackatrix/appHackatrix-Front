@@ -3,6 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="f679a297-fc2b-4946-a7c5-9fdb942b202a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/ExampleComponent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/ExampleComponent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/modules/ExampleRedux.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/request/ExampleRequest.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Control/Control.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Control/Control.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Cuestionario/Cuestionario.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Cuestionario/Cuestionario.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Home/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Home/Home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/PlanAccion/PlanAccion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/PlanAccion/PlanAccion.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Resultado/Resultado.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Resultado/Resultado.tsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,14 +26,14 @@
   <component name="ProjectId" id="1RTX9NMTR6W1pgKKjLmadpVM8Y7" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/fonts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -54,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569691906318</updated>
       <workItem from="1569691907647" duration="3123000" />
+      <workItem from="1569698534775" duration="557000" />
     </task>
     <servers />
   </component>
@@ -65,7 +76,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
