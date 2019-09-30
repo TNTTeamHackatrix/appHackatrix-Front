@@ -1,19 +1,17 @@
 import * as React from "react";
-import {connect} from "react-redux";
-import {withRouter} from "react-router-dom";
+import {Resultado} from "../Resultado/Resultado";
 
 
-export class Home extends React.PureComponent<any, any> {
-    constructor(props: any) {
-        super(props);
-    }
+const Home = () => {
+    return (
+        <div>
+            <h1>Bienvenido Jose Joaquin Ramirez</h1>
+            <h2>"Todo va a estar bien al final, si no está bien no es el final"</h2>
+            <Resultado>
+
+            </Resultado>
+        </div>
+    );
 }
-const HomeSinConectar: any = connect(
-    (store: any) => {
-        return {
 
-        };
-    },
-)(Home);
-
-export default withRouter(HomeSinConectar)
+export default Home;

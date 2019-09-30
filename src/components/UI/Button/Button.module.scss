@@ -1,0 +1,113 @@
+@import "../../../scss/variables";
+
+.Button {
+  border: 1px solid transparent;
+  font-style: normal;
+  font-stretch: normal;
+  font-weight: bold;
+  line-height: normal;
+  letter-spacing: normal;
+  padding: 0 15px;
+  text-align: center;
+  text-transform: uppercase;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+.ButtonFullWidth {
+  width: 100%;
+}
+
+.ButtonNotFullWidth {
+  width: auto;
+}
+
+.ButtonPrimary {
+  background-color: #00aec7;
+  border-radius: 4px;
+  color: $white;
+  font-size: 16px;
+  height: 48px;
+  margin-left: 5px;
+  padding: 0 15px;
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+
+  &:disabled {
+    background-color: $black;
+    opacity: .4;
+  }
+}
+
+.ButtonPrimaryLoader {
+  background-color: #00aec7;
+  border-radius: 4px;
+  color: $white;
+  font-size: 16px;
+  height: 48px;
+  padding: 0 15px;
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+
+  &:disabled {
+    background-color: #00aec7;
+    opacity: .4;
+  }
+}
+
+.ButtonSecondary {
+  background-color: $sickly-yellow;
+  border-radius: 20px;
+  color: #0134a1;
+  height: 40px;
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.ButtonOutline {
+  background-color: transparent;
+  border: 0;
+  color: rgba(51, 51, 51, 0.7);
+  font-size: 16px;
+  height: 48px;
+  margin-right: 5px;
+  padding: 0 15px;
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+
+  &:disabled {
+    background-color: $black;
+    opacity: .4;
+  }
+}
+
+.ButtonGhost {
+  background-color: transparent;
+  border: 1px solid $darkish-blue;
+  border-radius: 24px;
+  color: $darkish-blue;
+  height: 40px;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+
+  &:disabled {
+    border: 1px solid $black;
+    color: $black;
+    opacity: .4;
+  }
+}
+
+@media (max-width: 450px) {
+  .Button {
+    margin: 0;
+  }
+}

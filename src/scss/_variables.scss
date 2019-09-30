@@ -1,0 +1,28 @@
+// Colors
+$sickly-yellow: #e3e829;
+$darkish-blue: #0033a0;
+$black: #333333;
+$white: #ffffff;
+$white-two: #f7f7f7;
+$peachy-pink: #f39a9a;
+$tomato: #e54720;
+$lightish-green: #72df5f;
+$turquoise-blue: #00aecb;
+$primary-color: $darkish-blue;
+$secondary-color: $sickly-yellow;
+
+// Mixins
+@mixin placeholder {
+    &::-webkit-input-placeholder {
+        @content
+    }
+    &:-moz-placeholder {
+        @content
+    }
+    &::-moz-placeholder {
+        @content
+    }
+    &:-ms-input-placeholder {
+        @content
+    }
+}

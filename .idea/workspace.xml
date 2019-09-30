@@ -2,17 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f679a297-fc2b-4946-a7c5-9fdb942b202a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/AnimationLoader/AnimationLoader.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/AnimationLoader/AnimationLoader.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/AnimationLoader/AnimationLoader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/AnimationLoader/__snapshots__/AnimationLoader.test.tsx.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Button/__snapshots__/Button.test.tsx.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/configureStore.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/request/ConfirmarCuestionario.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/Root.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/Request.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/pruebaActions.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/pruebaReducers.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/ExampleComponent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/ExampleComponent.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/modules/ExampleRedux.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/request/ExampleRequest.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/Control/Control.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Control/Control.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/Cuestionario/Cuestionario.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Cuestionario/Cuestionario.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/ExampleComponent.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Control/Control.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Cuestionario/Cuestionario.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/screens/Home/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Home/Home.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/PlanAccion/PlanAccion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/PlanAccion/PlanAccion.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/PlanAccion/PlanAccion.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/screens/Resultado/Resultado.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Resultado/Resultado.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,9 +56,15 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/assets/fonts" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/request" />
+      <recent name="$PROJECT_DIR$/src/redux" />
+      <recent name="$PROJECT_DIR$/src/util" />
+      <recent name="$PROJECT_DIR$/src/components/UI" />
+      <recent name="$PROJECT_DIR$/src/scss" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -64,7 +90,12 @@
       <option name="presentableId" value="Default" />
       <updated>1569691906318</updated>
       <workItem from="1569691907647" duration="3123000" />
-      <workItem from="1569698534775" duration="557000" />
+      <workItem from="1569698534775" duration="930000" />
+      <workItem from="1569701943652" duration="6466000" />
+      <workItem from="1569708429470" duration="2728000" />
+      <workItem from="1569713455072" duration="409000" />
+      <workItem from="1569713879675" duration="610000" />
+      <workItem from="1569714688906" duration="314000" />
     </task>
     <servers />
   </component>

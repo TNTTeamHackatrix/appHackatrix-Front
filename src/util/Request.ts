@@ -1,0 +1,6 @@
+export enum REQUEST {
+ NONE,
+ PENDING,
+ SUCCESS,
+ ERROR,
+}

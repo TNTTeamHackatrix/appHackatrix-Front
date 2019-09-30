@@ -1,0 +1,323 @@
+@import "/src/scss/variables";
+
+@font-face {
+  font-family: "FSJoey";
+  font-style: normal;
+  font-weight: 300;
+  src: local("FSJoey"), url("/assets/fonts/FSJoey/FS_Joey-Light.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FSJoey";
+  font-style: italic;
+  font-weight: 300;
+  src: local("FSJoey"), url("/assets/fonts/FSJoey/FS_Joey-LightItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FSJoey";
+  font-style: normal;
+  font-weight: 400;
+  src: local("FSJoey"), url("/assets/fonts/FSJoey/FS_Joey.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FSJoey";
+  font-style: italic;
+  font-weight: 400;
+  src: local("FSJoey"), url("/assets/fonts/FSJoey/FS_Joey-Italic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FSJoey";
+  font-style: normal;
+  font-weight: 500;
+  src: local("FSJoey"), url("/assets/fonts/FSJoey/FS_Joey-Medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FSJoey";
+  font-style: italic;
+  font-weight: 500;
+  src: local("FSJoey"), url("/assets/fonts/FSJoey/FS_Joey-MediumItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FSJoey";
+  font-style: normal;
+  font-weight: 700;
+  src: local("FSJoey"), url("/assets/fonts/FSJoey/FS_Joey-Bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FSJoey";
+  font-style: italic;
+  font-weight: 700;
+  src: local("FSJoey"), url("/assets/fonts/FSJoey/FS_Joey-BoldItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FSJoey";
+  font-style: normal;
+  font-weight: 900;
+  src: local("FSJoey"), url("/assets/fonts/FSJoey/FS_Joey-Heavy.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FSJoey";
+  font-style: italic;
+  font-weight: 900;
+  src: local("FSJoey"), url("/assets/fonts/FSJoey/FS_Joey-HeavyItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FSJoey";
+  font-style: normal;
+  font-weight: 300;
+  src: local("FSJoey"), url("/assets/fonts/FSJoey/FS_Joey-Light.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FSJoey";
+  font-style: italic;
+  font-weight: 300;
+  src: local("FSJoey"), url("/assets/fonts/FSJoey/FS_Joey-LightItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FSJoey";
+  font-style: normal;
+  font-weight: 400;
+  src: local("FSJoey"), url("/assets/fonts/FSJoey/FS_Joey.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FSJoey";
+  font-style: italic;
+  font-weight: 400;
+  src: local("FSJoey"), url("/assets/fonts/FSJoey/FS_Joey-Italic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FSJoey";
+  font-style: normal;
+  font-weight: 500;
+  src: local("FSJoey"), url("/assets/fonts/FSJoey/FS_Joey-Medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FSJoey";
+  font-style: italic;
+  font-weight: 500;
+  src: local("FSJoey"), url("/assets/fonts/FSJoey/FS_Joey-MediumItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FSJoey";
+  font-style: normal;
+  font-weight: 700;
+  src: local("FSJoey"), url("/assets/fonts/FSJoey/FS_Joey-Bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FSJoey";
+  font-style: italic;
+  font-weight: 700;
+  src: local("FSJoey"), url("/assets/fonts/FSJoey/FS_Joey-BoldItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FSJoey";
+  font-style: normal;
+  font-weight: 900;
+  src: local("FSJoey"), url("/assets/fonts/FSJoey/FS_Joey-Heavy.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FSJoey";
+  font-style: italic;
+  font-weight: 900;
+  src: local("FSJoey"), url("/assets/fonts/FSJoey/FS_Joey-HeavyItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "DINOffc";
+  font-style: normal;
+  font-weight: 300;
+  src: local("DINOffc"), url("/assets/fonts/DINOffc/DINOffc-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "DINOffc";
+  font-style: italic;
+  font-weight: 300;
+  src: local("DINOffc"), url("/assets/fonts/DINOffc/DINOffc-LightIta.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "DINOffc";
+  font-style: normal;
+  font-weight: 400;
+  src: local("DINOffc"), url("/assets/fonts/DINOffc/DINOffc.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "DINOffc";
+  font-style: italic;
+  font-weight: 400;
+  src: local("DINOffc"), url("/assets/fonts/DINOffc/DINOffc-Ita.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "DINOffc";
+  font-style: normal;
+  font-weight: 500;
+  src: local("DINOffc"), url("/assets/fonts/DINOffc/DINOffc-Medi.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "DINOffc";
+  font-style: italic;
+  font-weight: 500;
+  src: local("DINOffc"), url("/assets/fonts/DINOffc/DINOffc-MediIta.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "DINOffc";
+  font-style: normal;
+  font-weight: 700;
+  src: local("DINOffc"), url("/assets/fonts/DINOffc/DINOffc-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "DINOffc";
+  font-style: italic;
+  font-weight: 700;
+  src: local("DINOffc"), url("/assets/fonts/DINOffc/DINOffc-BoldIta.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "DINOffc";
+  font-style: normal;
+  font-weight: 900;
+  src: local("DINOffc"), url("/assets/fonts/DINOffc/DINOffc-Black.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "DINOffc";
+  font-style: italic;
+  font-weight: 900;
+  src: local("DINOffc"), url("/assets/fonts/DINOffc/DINOffc-BlackIta.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Material Icons";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/assets/fonts/MaterialIcons/Material-Icons-Baseline.eot");
+  /* For IE6-8 */
+  src: local("Material-Icons-Baseline"), 
+    url("/assets/fonts/MaterialIcons/Material-Icons-Baseline.woff2") format('woff2'),
+    url("/assets/fonts/MaterialIcons/Material-Icons-Baseline.woff") format('woff'),
+    url("/assets/fonts/MaterialIcons/Material-Icons-Baseline.svg") format('svg'),
+    url("/assets/fonts/MaterialIcons/Material-Icons-Baseline.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: "Material Icons Outline";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/assets/fonts/MaterialIcons/Material-Icons-Outline.eot");
+  src: local("MaterialIcons-Outline"), 
+  url("/assets/fonts/MaterialIcons/Material-Icons-Outline.woff2") format('woff2'),
+  url("/assets/fonts/MaterialIcons/Material-Icons-Outline.woff") format('woff'),
+  url("/assets/fonts/MaterialIcons/Material-Icons-Outline.svg") format('svg'),
+  url("/assets/fonts/MaterialIcons/Material-Icons-Outline.ttf") format('truetype');
+}
+
+body {
+  font-family: FSJoey, sans-serif !important;
+}
+
+.container-fluid {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  background: $sickly-yellow;
+}
+
+.row {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.col-1,
+.col-10,
+.col-11,
+.col-12,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9 {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.material-icons,
+.material-icons-outline {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: "liga";
+}
+
+.material-icons {
+  font-family: "Material Icons", serif;
+}
+
+.material-icons-outline {
+  font-family: "Material Icons Outline", serif;
+}
+
+.Badged {
+  border-radius: 16px;
+  padding: 4px 10px;
+  width: 100%;
+
+  &.BagedIdeal {
+    border: 1px solid #02aec7;
+    background-color: rgba(2, 174, 199, 0.08);
+    color: #02aec7;
+  }
+
+  &.BagedSuccess {
+    border: 1px solid $lightish-green;
+    background-color: rgba(114, 223, 95, 0.08);
+    color: $lightish-green;
+  }
+
+  &.BadgedError {
+    border: 1px solid $tomato;
+    color: $tomato;
+  }
+
+  &.BadgedDefault {
+    border: 1px solid $black;
+    background-color: rgba(0, 0, 0, 0.08);
+    color: $black;
+  }
+}
+

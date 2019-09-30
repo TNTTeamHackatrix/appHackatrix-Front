@@ -1,0 +1,35 @@
+.CheckboxRow {
+  margin: 10px 0;
+}
+
+.RowDivider {
+  border-top: 1.5px solid rgba(0, 0, 0, 0.14);
+  margin-bottom: 0 !important;
+  margin-top: 0 !important;
+  margin-right: 15px;
+}
+
+.NoPadding {
+  padding: 0 !important;
+}
+
+.NoPaddingHorizontally {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.NoPaddingRight {
+  padding-right: 0 !important;
+}
+
+.CenterItems {
+  align-items: center;
+}
+
+.JustifyContent {
+  justify-content: center;
+}
+
+.Capitalize {
+  text-transform: capitalize;
+}
